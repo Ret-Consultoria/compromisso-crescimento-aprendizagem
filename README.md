@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=220&section=header&text=📚%20Crescimento%20%26%20Aprendizagem&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RET%20Tecnologia%20•%20Learning%20%26%20Development%20Framework&descSize=14&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <a href="https://rettecnologia.org">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%93%9A+Crescimento+%26+Aprendizagem;RET+Tecnologia+%E2%80%A2+L%26D+Framework+2026" alt="Header" />
+  </a>
 </p>
 
 <p align="center">
@@ -54,7 +56,7 @@ Na **RET Tecnologia**, entendemos que o capital humano é o único ativo que se 
 
 > Cada engenheiro que sobe de nível eleva a qualidade de cada linha de código entregue aos nossos clientes. É um investimento com retorno **comprovado**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+---
 
 ## 🏗️ Os 5 Pilares de Aprendizagem
 
@@ -115,7 +117,7 @@ Não deixamos crescimento profissional ao acaso. Cada cargo possui trilhas de ap
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+---
 
 ### 2. 🧑‍🏫 Mentoria Bidirecional Estruturada
 
@@ -235,10 +237,6 @@ Contribuições são bem-vindas! Se você quer sugerir melhorias, adicionar recu
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer" />
-</p>
 
 <p align="center">
   <sub>
